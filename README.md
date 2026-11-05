@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm a Mechanical & Autonomous Systems Engineer 👋
 
-<!--
-**metokant/metokant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build at the intersection of mechanical design, embedded systems, and autonomous robotics. My work spans from rapid hardware prototyping and additive manufacturing to low-level control systems and mobile robotics.
 
-Here are some ideas to get you started:
+- 🤖 **Focus:** Field & agricultural robotics, multi-module kinematic architectures (swerve drive), CAN bus networks.
+- ⚙️ **Hardware Prototyping:** Large-format 3D printing (FDM / technical filaments), custom electro-mechanical setups, sensor integration.
+- 💻 **Embedded & Edge:** ESP32, NVIDIA Jetson, single-board Linux setups, real-time control.
+- ✈️ **Aviation & DIY:** Licensed UAV pilot, fixed-wing RC airframe design & integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Always turning CAD models into physical, running machines.*
+
+### Merhaba, Ben bir Mekanik ve Otonom Sistemler Mühendisiyim 👋
+
+Mekanik tasarım, gömülü sistemler ve otonom robotiğin kesişiminde sistemler geliştiriyorum. Çalışmalarım; hızlı donanım prototipleme ve eklemeli imalattan, alt seviye kontrol mimarilerine ve mobil robotik platformlara kadar uzanıyor.
+
+- 🤖 **Odak:** Saha/tarım robotiği, bağımsız yönlendirmeli (swerve-drive) kinematik mimariler, CAN bus ağları.
+- ⚙️ **Donanım Prototipleme:** Büyük ölçekli 3D baskı (teknik filamentler), elektromekanik entegrasyon, sensör füzyonu.
+- 💻 **Gömülü & Edge:** ESP32, NVIDIA Jetson, tek kart bilgisayarlar (Linux), gerçek zamanlı kontrol sistemleri.
+- ✈️ **Havacılık & Projeler:** Lisanslı İHA pilotu, sabit kanat RC hava aracı tasarımı ve entegrasyonu.
+
+*CAD tasarımlarını sahada çalışan gerçek makinelere dönüştürmek üzerine çalışıyorum.*
